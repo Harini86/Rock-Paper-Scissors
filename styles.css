@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color:aliceblue;  
+}
+p{
+    font-weight: bolder;
+}
+.container {
+
+    text-align: center;
+}
+
+.choices {
+    margin-bottom: 20px;
+}
+
+.choice {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0b1e31;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.choice:hover {
+    background-color: #455d8a;
+}
+
+.result {
+    font-size: 24px;
+}
