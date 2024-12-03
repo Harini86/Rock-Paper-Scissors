@@ -17,7 +17,7 @@ This is a simple and interactive Rock-Paper-Scissors game built using **HTML**, 
 5. Continue playing to improve your score or reset to start over!
 
 ## Demo:
-You can try out the live version of the game here: [GitHub](https://github.com)
+You can try out the live version of the game here: [GitHub](https://harini86.github.io/Rock-Paper-Scissors/)
 
 ## Future Improvements:
 - Add animations for a more dynamic gaming experience.
